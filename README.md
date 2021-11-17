@@ -11,17 +11,17 @@ I am writing this program to help me and anyone who uses it get things done fast
 I used a new pattern in coding this artificial intelligence
 MPD pattern:
 This pattern has three layers.
-Modules: Libraries and Functions
-Processors: processing instructions (for example: conditional statements)
-Databases: application data
-In the next update, documentation of this pattern will be published
+Modules: Libraries and Functions.
+Processors: processing instructions (for example: conditional statements).
+Databases: application data.
+In the next update, documentation of this pattern will be published.
 
 # Features 1.0
 Features of this version of Delta Assistant:
-Semi-rigid calculations in mathematics, physics, chemistry
+Semi-rigid calculations in mathematics, physics, chemistry.
 Search engines
 Search Wikipedia
-Open a URL
+Open a URL.
 Open a project from your system
 Rename the file or folder
 Analyze a stock (this is not yet complete in this version)
