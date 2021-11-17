@@ -23,4 +23,3 @@ else:
         print("Viva Phoenix")
     cmd.bind('<F5>',run)
     app.mainloop()
-
