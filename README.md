@@ -1,5 +1,5 @@
 # Delta-Assistant
-Hi__
+Hi <br/>
 I'm Phoenix
 This project is a smart assistant
 This is the 1.0 version of this project
