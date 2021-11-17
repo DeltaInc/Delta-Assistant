@@ -18,7 +18,7 @@ In the next update, documentation of this pattern will be published <br/>
 
 # Features 1.0
 Features of this version of Delta Assistant: <br/>
-Semi-rigid calculations in mathematics, physics, chemistry <br/>
+->Semi-rigid calculations in mathematics, physics, chemistry <br/>
 Search engines <br/>
 Search Wikipedia <br/>
 Open a URL <br/>
